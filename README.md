@@ -1,4 +1,4 @@
-Student Management System (Command-Line)
+##Student Management System (Command-Line)
 A simple and efficient Command-Line Student Management System written in Python using Object-Oriented Programming (OOP).
 This project lets you add, update, delete, and list student records, and persist data to CSV or JSON files for reuse between runs. Designed as a beginner-friendly project to demonstrate file I/O, OOP design, and basic validation.
 
